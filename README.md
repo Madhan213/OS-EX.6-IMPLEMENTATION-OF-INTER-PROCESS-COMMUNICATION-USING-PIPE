@@ -61,7 +61,9 @@ PROGRAM:
 
 OUTPUT:
 
-<img width="302" alt="image" src="https://github.com/AlluguriSrikrishnateja/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118343892/9b3248f0-bb50-4bbd-b1d6-6ead496e59c2">
+![Screenshot 2023-10-13 090307](https://github.com/Madhan213/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/130206230/0ba85f81-ca57-465d-98c0-af14720352a9)
+
+
 
 
 
